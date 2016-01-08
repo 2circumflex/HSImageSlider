@@ -9,7 +9,7 @@
 이미지 개수가 0개 이면 레이블로 비었다고 표시해줍니다.
 
 * `HSImageSlider` 폴더 통째로 가져가서 쓰시면 됩니다.
-* `Example` 폴더는 HSImageSlider를 적용한 예제 프로젝트입니다. (이미지포함)
+* `HSImageSliderExample` 폴더는 HSImageSlider를 적용한 예제 프로젝트입니다. (이미지포함)
 
 
 ## 사용법
